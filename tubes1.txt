@@ -1,0 +1,3 @@
+1102200059,arcico,90,Bahasa Indonesia, Semarang
+1102200070,bagus,100,Kalkulus, Jogja
+1102211009,dika,79,PKN, Surabaya
